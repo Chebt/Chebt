@@ -1,10 +1,12 @@
-◉👋 Hi, I’m @Chebt
+◉👋 Hi, I'm Daniel 👋
 
-◉👀 I’m interested in learning creative ideas and knowing more about Tech.
+I'm a computer science student building toward mid-level fullstack development 
+— currently deep in Python, FastAPI, and React, with a hand-rolled auth system and 
+a real Postgres-backed project as proof of work.
 
-◉🌱 I’m currently pursuing computer Science and into programming languages C, Java[Spring Boot]& Android Programming, python and HTML/CSS
-
-◉💞️ I’m looking to collaborate on giving the best time to give satisfiable results.
-
-◉📫 How to reach me is through my email
-chebetdaniel590@gmail.com
+- 🔭 Currently building **task-tracker** — a full-stack app with JWT auth, per-user data isolation,
+  and a React frontend wired to a live API
+- 🌱 Learning fullstack development the hard way: raw SQL → SQLAlchemy → Postgres, one deliberate step at a time
+- 💼 Working full-time as an Aircraft Technician while studying CS — my final year project is a maintenance &
+  documentation system built for that world
+- 📫 Reach me at chebetdaniel590@gmail.com
